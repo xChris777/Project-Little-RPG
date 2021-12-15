@@ -11,7 +11,7 @@ namespace Testbed_1
             string appVersion = "0.0.2";
             string appAuthor = "Curch7";
 
-            string charClass;
+            string name;
 
             // Change text colour 
             Console.ForegroundColor = ConsoleColor.Yellow;
@@ -25,54 +25,60 @@ namespace Testbed_1
 
             Console.WriteLine("What is your name?");
 
-            string name = Console.ReadLine();
+            name = Console.ReadLine();
 
             Console.WriteLine("{0}, you're about to venture into an unknown world, filled with mystery and adventure...", name);
-            string charClass = GetClass(name);
 
-            if (charClass == "mage" || charClass == "rogue" || charClass == "swordfighter")
+            Console.WriteLine("Please tell me - are you a mage, a rogue, or a swordfighter {0}?", name);
 
-            {
-                switch (charClass)
+            string classInput = Console.ReadLine();
+
+            if(classInput.Equals("mage") || classInput.Equals("rogue") || classInput.Equals("swordfighter"))
+
+                switch (classInput)
                 {
 
                     case "mage":
-                        Console.WriteLine("Mages are wise.");
-                        Console.WriteLine("You've selected {0} as your class", charClass);
-                        break;
+                    {
+                        Console.WriteLine("Mages are wise. You will be able to use spells to aid you in your travels.");
+                        Console.WriteLine("You've selected mage as your class.");
+                        string charClass = "mage";
+                    }
+                    break;
 
                     case "rogue":
-                        Console.WriteLine("Rogues are sneaky.");
-                        Console.WriteLine("You've selected {0} as your class", charClass);
-                        break;
-
+                    {
+                        Console.WriteLine("Rogues are sneaky. If there's ever an opportunity to get into somewhere you shouldn't be, you'll be able to capitalize on it.");
+                        Console.WriteLine("You've selected rogue as your class.");
+                        string charClass = "rogue";                        
+                    }
+                    break;
+                    
                     case "swordfighter":
-                        Console.WriteLine("Swordfighters are brave.");
-                        Console.WriteLine("You've selected {0} as your class", charClass);
+                    { 
+                        Console.WriteLine("Swordfighters are strong. During your travels, you may come across interesting ways to use this strength.");
+                        Console.WriteLine("You've selected swordfighter as your class.");
+                        string charClass = "swordfighter";
+                    }
                         break;
-                }
-            }
+                }   
+                
+                else 
+                
+                
 
-            else while (charClass != "mage" || charClass != "rogue" || charClass != "swordfighter")
+            // else while (charClass != "mage" || charClass != "rogue" || charClass != "swordfighter")
+            // need to make a loop, so that if mage, rogue or swordfighter aren't the string inputted, we ask again over and over until one of those 3 options are asked. 
 
-                GetClass(name);
 
-             
-                 
+
+
+
         }
         
         
 
-        private static string GetClass(string name)
-        {
-            Console.WriteLine("Please tell me {0} - are you a masterful mage, a reticent rogue, or a soulful swordfighter?", name);
-
-            string charClass = Console.ReadLine();
-            return charClass;
-        }
-
-
-        //  working on making charClass only apply if the user input is ""mage" , "rogue", or "swordfighter"
+        
 
     }
 }

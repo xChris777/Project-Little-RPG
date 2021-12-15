@@ -19,3 +19,10 @@ F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\obj\Debug\netcoreapp3
 F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.csproj.CoreCompileInputs.cache
 F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.dll
 F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.pdb
+F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\bin\Debug\netcoreapp3.1\Testbed 1.exe
+F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\bin\Debug\netcoreapp3.1\Testbed 1.deps.json
+F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\bin\Debug\netcoreapp3.1\Testbed 1.runtimeconfig.json
+F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\bin\Debug\netcoreapp3.1\Testbed 1.runtimeconfig.dev.json
+F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\bin\Debug\netcoreapp3.1\Testbed 1.dll
+F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\bin\Debug\netcoreapp3.1\Testbed 1.pdb
+F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.genruntimeconfig.cache
