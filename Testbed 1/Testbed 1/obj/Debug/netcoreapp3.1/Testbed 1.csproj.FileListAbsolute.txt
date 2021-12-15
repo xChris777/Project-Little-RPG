@@ -1,0 +1,21 @@
+C:\Users\rosed\source\repos\Testbed 1\Testbed 1\bin\Debug\netcoreapp3.1\Testbed 1.exe
+C:\Users\rosed\source\repos\Testbed 1\Testbed 1\bin\Debug\netcoreapp3.1\Testbed 1.deps.json
+C:\Users\rosed\source\repos\Testbed 1\Testbed 1\bin\Debug\netcoreapp3.1\Testbed 1.runtimeconfig.json
+C:\Users\rosed\source\repos\Testbed 1\Testbed 1\bin\Debug\netcoreapp3.1\Testbed 1.runtimeconfig.dev.json
+C:\Users\rosed\source\repos\Testbed 1\Testbed 1\bin\Debug\netcoreapp3.1\Testbed 1.dll
+C:\Users\rosed\source\repos\Testbed 1\Testbed 1\bin\Debug\netcoreapp3.1\Testbed 1.pdb
+C:\Users\rosed\source\repos\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.csproj.AssemblyReference.cache
+C:\Users\rosed\source\repos\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosed\source\repos\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.AssemblyInfoInputs.cache
+C:\Users\rosed\source\repos\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.AssemblyInfo.cs
+C:\Users\rosed\source\repos\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.csproj.CoreCompileInputs.cache
+C:\Users\rosed\source\repos\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.dll
+C:\Users\rosed\source\repos\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.pdb
+C:\Users\rosed\source\repos\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.genruntimeconfig.cache
+F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.csproj.AssemblyReference.cache
+F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.AssemblyInfoInputs.cache
+F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.AssemblyInfo.cs
+F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.csproj.CoreCompileInputs.cache
+F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.dll
+F:\Code\C# Projects\Project Little RPG\Testbed 1\Testbed 1\obj\Debug\netcoreapp3.1\Testbed 1.pdb
