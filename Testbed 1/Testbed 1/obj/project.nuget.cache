@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "H4sXgVuTo1u3vsq8ORbu78Po221r2SvBN+NON1b7Q8CiYkjWSdWQsM1S23gvMbI6U1VJtmrjcOgS0BNnJfEcbA==",
+  "dgSpecHash": "8iQ+l9zK9tXHE8oylMsZHTTmuAM84Rwrat2pXi1e+eqwuOYgktKsUqdrX4B3TWWtMmgxLdwPFbkIPckmWgYfmA==",
   "success": true,
   "projectFilePath": "F:\\Code\\C# Projects\\Project Little RPG\\Testbed 1\\Testbed 1\\Testbed 1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rosed\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }
